@@ -7,7 +7,7 @@ This is a helpers package that provides some built in helpers, and also provides
 Via Composer
 
 ``` bash
-$ composer require neverbehave/helpers
+$ composer require neverbehave/lumen-helpers
 ```
 
 ## Setup
